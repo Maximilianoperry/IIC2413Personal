@@ -1,11 +1,11 @@
-﻿IdTripulante,Categoria
-1,Piloto
-2,Copiloto
-3,Copiloto
-4,Copiloto
-5,Piloto
-6,Copiloto
-7,Piloto
-8,Piloto
-9,Copiloto
-10,Piloto
+﻿IdTripulante,Categoria,Nombre
+1,Piloto,Diego Herrera
+2,Copiloto,Freddy Melis
+3,Copiloto,Diddier Perez
+4,Copiloto,Manuel Perez
+5,Piloto,Rodrigo Hormazabal
+6,Copiloto,Carlos Bilardo
+7,Piloto,Griezmann Mbappe
+8,Piloto,Cecilio Aquaman
+9,Copiloto,Jose Stalin
+10,Piloto,Irene Flyndt
