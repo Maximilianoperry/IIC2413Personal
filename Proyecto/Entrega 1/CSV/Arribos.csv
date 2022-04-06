@@ -1,1 +1,2 @@
-﻿IdOperacion,AerodromoDespegue,AerodromoDestino,HoraRealArribo,AeronaveUtilizada,PistaUtilizada,PuertoDeEmbarqueUtilizado
+﻿IdOperacion,IdAerodromoDespegue,IdAerodromoDestino,HoraRealArribo,IdAeronaveUtilizada,PistaUtilizada,PuertoDeEmbarqueUtilizado
+1,2,7,20:34,1,17,23
