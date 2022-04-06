@@ -1,1 +1,11 @@
 ﻿IdAeronave,nombre,modelo,peso,codigo,idCertificado
+1,Super Jumbo,A380,267,ACOMSJA,3
+2,Boeing,747,183,ACOMBOA,2
+3,Lockheed,C130,34,AMILLHA,4
+4,Bell,412,3,HELIBEA,1
+5,Mapache,A350,115,ACOMMAA,5
+6,Fairchild-Republic,A10,11,AMILFCA,7
+7,Bell,412,3,HELIBEB,10
+8,Super Jumbo,A380-900,298,ACOMSJB,9
+9,MD,80,35,ACOMMDA,6
+10,Boeing,T7,135,ACOMBOB,8
