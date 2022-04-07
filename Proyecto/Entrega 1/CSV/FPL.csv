@@ -1,1 +1,11 @@
-﻿IdFPL,IdVuelo,IdCompania,NumVuelo,FechaSalida,FechaLlegada,TipoAeronave,IdAerodromoSalida,IdAerofromoLlegada,EstadoVuelo,TipoAeronave,Ruta,Velocidad,Altitud,TipoDeVuelo,NumDePasajeros,Piloto,Copiloto,EstadoFPL
+﻿IdFPL,IdVuelo,IdCompania,NumVuelo,FechaSalida,FechaLlegada,TipoAeronave,IdAerodromoSalida,IdAerofromoLlegada,EstadoVuelo,IdAeronave,Ruta,Velocidad,Altitud,TipoDeVuelo,NumDePasajeros,Piloto,Copiloto,EstadoFPL
+1,1,1,LAN515,03/03/2020,03/03/2020,Avion Comercial,2,7,Aceptado,1,RELLENAR_RUTA,800,9000,Comercial,734,5,2,Efectuado
+2,2,2,FLY107,23/12/2022,24/12/2022,Avion Comercial,1,5,Pendiente,1,RELLENAR_RUTA,950,12000,Comercial,810,6,7,No efectuado
+3,3,6,SKY777,18/09/2021,18/09/2021,Avion Comercial,6,7,Rechazado,10,RELLENAR_RUTA,300,2000,Comercial,10,7,2,No efectuado
+4,4,1,LAN555,24/12/2020,25/12/2020,Avion Comercial,1,2,Aceptado,5,RELLENAR_RUTA,830,10000,Comercial,412,10,6,Efectuado
+5,5,2,FLY007,05/04/2022,05/04/2022,Avion Comercial,5,2,Aceptado,9,RELLENAR_RUTA,920,8800,Comercial,523,5,6,Efectuado
+6,6,4,AAR515,07/08/2022,07/08/2022,Avion Comercial,3,1,Pendiente,5,RELLENAR_RUTA,710,6400,Comercial,330,8,9,No efectuado
+7,7,3,LUF945,12/12/2021,12/12/2021,Avion Militar,7,5,Aceptado,3,RELLENAR_RUTA,780,8600,Militar,45,11,1,Efectuado
+8,8,5,TUR313,21/02/2024,22/02/2024,Avion Comercial,7,3,Pendiente,5,RELLENAR_RUTA,760,11400,Comercial,513,8,9,No efectuado
+9,9,6,SKY226,20/12/2021,20/12/2021,Helicoptero,6,3,Aceptado,7,RELLENAR_RUTA,340,5200,Militar,23,1,11,Efectuado
+10,10,4,AAR656,21/12/2021,22/12/2021,Avion Comercial,3,4,Aceptado,2,RELLENAR_RUTA,920,11500,Comercial,340,5,9,Efectuado

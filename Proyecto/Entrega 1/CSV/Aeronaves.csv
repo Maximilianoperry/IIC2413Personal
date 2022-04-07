@@ -1,4 +1,4 @@
-﻿IdAeronave,nombre,modelo,peso,codigo,idCertificado
+﻿IdAeronave,nombre,modelo,peso,codigo,IdCertificado
 1,Super Jumbo,A380,267,ACOMSJA,3
 2,Boeing,747,183,ACOMBOA,2
 3,Lockheed,C130,34,AMILLHA,4

@@ -1,11 +1,11 @@
-﻿IdTripulante,Categoria,Nombre
-1,Piloto,Diego Herrera
-2,Copiloto,Freddy Melis
-3,Copiloto,Diddier Perez
-4,Copiloto,Manuel Perez
-5,Piloto,Rodrigo Hormazabal
-6,Copiloto,Carlos Bilardo
-7,Piloto,Griezmann Mbappe
-8,Piloto,Cecilio Aquaman
-9,Copiloto,Jose Stalin
-10,Piloto,Irene Flyndt
+﻿IdTripulante,Categoria,Nombre,IdLicencia
+1,Piloto,Diego Herrera,1
+2,Copiloto,Freddy Melis,5
+3,Copiloto,Diddier Perez,11
+4,Copiloto,Manuel Perez,8
+5,Piloto,Rodrigo Hormazabal,3
+6,Copiloto,Carlos Bilardo,9
+7,Piloto,Griezmann Mbappe,6
+8,Piloto,Cecilio Aquaman,4
+9,Copiloto,Jose Stalin,7
+10,Piloto,Irene Flyndt,10
