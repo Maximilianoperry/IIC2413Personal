@@ -1,5 +1,7 @@
-﻿IdOperacion,IdAerodromoDespegue,IdAerodromoDestino,IdHoraRealDespegue,IdAeronaveUtilizada,IdPistaUtilizada,IdPuertoDeEmbarqueUtilizado
+﻿IdOperacion,IdAerodromoDespegue,IdAerodromoDestino,HoraRealDespegue,IdAeronaveUtilizada,IdPistaUtilizada,IdPuertoDeEmbarqueUtilizado
 2,2,7,10:23,1,5,8
 4,1,2,20:23,5,1,1
 6,5,2,0:51,9,13,4
 8,7,5,13:42,3,19,25
+10,6,3,8:50,7,15,21
+12,3,4,23:59,2,7,11
