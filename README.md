@@ -11,3 +11,10 @@
 
 # Cálculo matemático
 - https://www.youtube.com/watch?v=TP8s6iJagSY
+
+# Precios
+- g Vacuno: $13.99
+- g Cerdo: $7.82
+- g Pollo: $5.98
+- unidad Longaniza: $1000
+- Menú Veggie: $5000
